@@ -7,7 +7,7 @@ SIPPS is a low-cal beverage brief design brand that requires:
 
 For each part of the project, I've included all the necessary elements that complete the brand. For Brand Identity, we have primary and secondary logos, business cards and packaging design. 
 
-For UX/UI Design, we've included the wireframes and prototypes of each important page being Home Page, Shop Page and Cart Page. Apart from that, there's also a case study which summarizes the key points of the entire project: https://www.figma.com/design/fOdHTBTyx9oJy9AhlNoaTL/Klea_Kota_CaseStudy_SIPPS?node-id=0-1&t=1uYarqyQ90tOUWYO-1
+For UX/UI Design, we've included the wireframes and prototypes of each important page being Home Page, Shop Page and Cart Page. Apart from that, there's also a case study which summarizes the key points of the entire project, which you can find in the UXUI Design folder.
 
 Lastly, for Web Development, we've included the project source code.
 

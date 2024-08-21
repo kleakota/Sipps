@@ -20,8 +20,8 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
-  
-  "homepage": "https://github.com/kleakota/Sipps",
+
+  "homepage": "https://kleakota.github.io/Sipps",
 
   "eslintConfig": {
     "extends": [

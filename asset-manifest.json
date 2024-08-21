@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/kleakota/Sipps/static/css/main.8d13a6d2.css",
+    "main.js": "/kleakota/Sipps/static/js/main.224ea774.js",
+    "static/media/Artboard3.png": "/kleakota/Sipps/static/media/Artboard3.6d9977978381cf9ae341.png",
+    "static/media/Artboard2.png": "/kleakota/Sipps/static/media/Artboard2.49b2223160c59fea4a00.png",
+    "static/media/Artboard1.png": "/kleakota/Sipps/static/media/Artboard1.c1026e4b5460a645d214.png",
+    "static/media/nineImg.jpg": "/kleakota/Sipps/static/media/nineImg.8515291ba364099fc30a.jpg",
+    "static/media/payImg.jpg": "/kleakota/Sipps/static/media/payImg.261fe7c58c5b55a038fb.jpg",
+    "static/media/middleImg.jpg": "/kleakota/Sipps/static/media/middleImg.fef5842b24873e9c9e24.jpg",
+    "static/media/sixImg.jpg": "/kleakota/Sipps/static/media/sixImg.bb52dedbd1559f78a2a4.jpg",
+    "static/media/fourthImg.jpg": "/kleakota/Sipps/static/media/fourthImg.bec6937813f47e5d4803.jpg",
+    "static/media/fifthImg.jpg": "/kleakota/Sipps/static/media/fifthImg.b2e31500354a4755ea97.jpg",
+    "static/media/eigImg.jpg": "/kleakota/Sipps/static/media/eigImg.da41a4662fcca8f9cd3d.jpg",
+    "static/media/introImg.jpg": "/kleakota/Sipps/static/media/introImg.5ff0ccbeccdf313ab384.jpg",
+    "static/media/sevImg.jpg": "/kleakota/Sipps/static/media/sevImg.e4a5dc2c2595732d940a.jpg",
+    "index.html": "/kleakota/Sipps/index.html",
+    "main.8d13a6d2.css.map": "/kleakota/Sipps/static/css/main.8d13a6d2.css.map",
+    "main.224ea774.js.map": "/kleakota/Sipps/static/js/main.224ea774.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8d13a6d2.css",
+    "static/js/main.224ea774.js"
+  ]
+}

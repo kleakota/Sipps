@@ -11,7 +11,7 @@ function Fourth(){
 
             <div className='text-container'>
                 <h3> Find out what you like.</h3>
-                <h6> We offer a wide range of options between <br></br>beverages, depending on the different types <br></br>of fruits you like. Starting from pineapple, <br></br>oranges, blueberries and many more. <br></br>We offer a wide range of options between <br></br>beverages, depending on the different types <br></br>of fruits you like. Starting from pineapple, <br></br>oranges, blueberries and many more.</h6>
+                <h6> We offer a wide range of options between beverages, depending on the different types of fruits you like. Starting from pineapple, oranges, blueberries and many more. We offer a wide range of options between beverages, depending on the different types of fruits you like. </h6>
                 <Link to="/shop"><button> Check Out</button></Link>
             </div>
 

@@ -31,3 +31,9 @@
     color: rgb(208, 206, 206);
 }
 
+@media (max-width: 768px) {
+    .details-container p {
+        font-size: 10px;
+    }
+}
+

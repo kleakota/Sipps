@@ -91,3 +91,17 @@
     margin-left: 10px;
 }
 
+@media (max-width: 768px) {
+    .payment-form h2 {
+        margin-bottom: 20px;
+        font-size: 30px;
+    }
+
+    .order-container {
+        margin-left: 50px;
+        width: 66vh;
+    }
+
+
+}
+

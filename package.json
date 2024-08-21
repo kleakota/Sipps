@@ -18,11 +18,9 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
+    "deploy": "gh-pages -d build",
+    "homepage": "https://kleakota.github.io/Sipps"
   },
-
-  "homepage": "https://kleakota.github.io/Sipps",
-
   "eslintConfig": {
     "extends": [
       "react-app",

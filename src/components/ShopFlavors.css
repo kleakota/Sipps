@@ -150,6 +150,56 @@
     background-color: white;
 }
 
+@media (max-width: 768px) {
+
+
+    .flavor-one-container .one-text, .flavor-two-container .two-text, .flavor-three-container .three-text {
+        margin-right: 50px;
+        width: 100vh;
+        margin-top: 65px;
+        text-align: justify;
+    }
+
+    .one-text h3, .two-text h3, .three-text h3 {
+        font-size: 30px;
+    }
+
+    .one-text h5, .two-text h5, .three-text h5 {
+        margin-top: 0px;
+        font-size: 15px;
+    }
+
+    .one-text p, .two-text p, .three-text p {
+        font-size: 13px;
+    }
+
+    .one-text button, .two-text button, .three-text button {
+        margin-top: 10px;
+    }
+
+    .flavor-two-container .two-photo {
+        margin-bottom: 80px;
+        width: 140vh;
+        height: 40vh;
+    }
+
+    .flavor-three-container .three-text {
+        margin-top: 20px;
+    }
+
+    .flavor-two-container .two-text {
+        margin-top: 30px;
+    }
+
+    .flavor-two-container .two-photo {
+        margin-left: 10px;
+        margin-right: 40px;
+        width: 100vh;
+        height: 80vh;
+    }
+
+}
+
 
 
 

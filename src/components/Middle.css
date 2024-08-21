@@ -3,7 +3,6 @@
     height: 100vh;
     display: flex;
     flex-direction: row;
-    
 }
 
 .photo-container {
@@ -42,4 +41,27 @@
     text-align: justify;
     margin-right: 200px;
     margin-left: 20px;
+}
+
+@media (max-width: 768px) {
+    .photo-container {
+        background-image: url('/src/components/images/middleImg.jpg');
+        background-size: cover; /* Ensures the image covers the entire area */
+        background-position: center; /* Centers the image */
+        margin-top: 200px;
+        margin-right: 50px;
+        width: 160vh;
+        height: 50vh; /* Adjust the height as needed */
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .middle-container p {
+        margin-top: -20px;
+        font-size: 15px;
+        text-align: justify;
+        margin-right: 50px;
+        margin-left: 20px;
+    }
 }

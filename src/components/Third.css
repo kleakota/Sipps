@@ -16,3 +16,13 @@
     font-size: 50px;
     text-align: center;
 }
+
+@media (max-width: 768px) {
+    .line-container hr {
+        margin-top: 250px;
+    }
+
+    .quote-container h1 {
+        font-size: 35px;
+    }
+}

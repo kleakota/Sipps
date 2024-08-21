@@ -22,7 +22,7 @@ function ShopFlavors() {
         },
         {
             name: 'Strawberry Vanilla Drop',
-            description: 'Strawberry Vanilla Drop contains only strawberries and a hint of vanilla to balance out the heat. Strawberry Vanilla Drop contains only strawberries and a hint of vanilla to balance out the heat on a summer day with the lovely sweetness of our unforgettable beverage, low on calories and delicious. Strawberry Vanilla Drop contains only strawberries and a hint of vanilla to balance out the heat. Strawberry Vanilla Drop contains only strawberries and a hint of vanilla to balance out the heat on a summer day with the lovely sweetness of our unforgettable beverage, low on calories and delicious.',
+            description: 'Strawberry Vanilla Drop contains only strawberries and a hint of vanilla to balance out the heat. Strawberry Vanilla Drop contains only strawberries and a hint of vanilla to balance out the heat on a summer day with the lovely sweetness of our unforgettable beverage, low on calories and delicious. Strawberry Vanilla Drop contains only strawberries and a hint of vanilla to balance out the heat.',
             imageClass: 'three-photo',
             textClass: 'three-text',
             containerClass: 'flavor-three-container'

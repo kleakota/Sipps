@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/Sipps/static/css/main.34d3a037.css",
-    "main.js": "/Sipps/static/js/main.a868fcdb.js",
-    "static/media/Artboard3.png": "/Sipps/static/media/Artboard3.6d9977978381cf9ae341.png",
-    "static/media/Artboard2.png": "/Sipps/static/media/Artboard2.49b2223160c59fea4a00.png",
-    "static/media/Artboard1.png": "/Sipps/static/media/Artboard1.c1026e4b5460a645d214.png",
-    "static/media/nineImg.jpg": "/Sipps/static/media/nineImg.8515291ba364099fc30a.jpg",
-    "static/media/payImg.jpg": "/Sipps/static/media/payImg.261fe7c58c5b55a038fb.jpg",
-    "static/media/middleImg.jpg": "/Sipps/static/media/middleImg.fef5842b24873e9c9e24.jpg",
-    "static/media/sixImg.jpg": "/Sipps/static/media/sixImg.bb52dedbd1559f78a2a4.jpg",
-    "static/media/fourthImg.jpg": "/Sipps/static/media/fourthImg.bec6937813f47e5d4803.jpg",
-    "static/media/fifthImg.jpg": "/Sipps/static/media/fifthImg.b2e31500354a4755ea97.jpg",
-    "static/media/eigImg.jpg": "/Sipps/static/media/eigImg.da41a4662fcca8f9cd3d.jpg",
-    "static/media/introImg.jpg": "/Sipps/static/media/introImg.5ff0ccbeccdf313ab384.jpg",
-    "static/media/sevImg.jpg": "/Sipps/static/media/sevImg.e4a5dc2c2595732d940a.jpg",
-    "index.html": "/Sipps/index.html",
-    "main.34d3a037.css.map": "/Sipps/static/css/main.34d3a037.css.map",
-    "main.a868fcdb.js.map": "/Sipps/static/js/main.a868fcdb.js.map"
+    "main.css": "/static/css/main.7562766d.css",
+    "main.js": "/static/js/main.c2fc023d.js",
+    "static/media/Artboard3.png": "/static/media/Artboard3.6d9977978381cf9ae341.png",
+    "static/media/Artboard2.png": "/static/media/Artboard2.49b2223160c59fea4a00.png",
+    "static/media/Artboard1.png": "/static/media/Artboard1.c1026e4b5460a645d214.png",
+    "static/media/nineImg.jpg": "/static/media/nineImg.8515291ba364099fc30a.jpg",
+    "static/media/payImg.jpg": "/static/media/payImg.261fe7c58c5b55a038fb.jpg",
+    "static/media/middleImg.jpg": "/static/media/middleImg.fef5842b24873e9c9e24.jpg",
+    "static/media/sixImg.jpg": "/static/media/sixImg.bb52dedbd1559f78a2a4.jpg",
+    "static/media/fourthImg.jpg": "/static/media/fourthImg.bec6937813f47e5d4803.jpg",
+    "static/media/fifthImg.jpg": "/static/media/fifthImg.b2e31500354a4755ea97.jpg",
+    "static/media/eigImg.jpg": "/static/media/eigImg.da41a4662fcca8f9cd3d.jpg",
+    "static/media/introImg.jpg": "/static/media/introImg.5ff0ccbeccdf313ab384.jpg",
+    "static/media/sevImg.jpg": "/static/media/sevImg.e4a5dc2c2595732d940a.jpg",
+    "index.html": "/index.html",
+    "main.7562766d.css.map": "/static/css/main.7562766d.css.map",
+    "main.c2fc023d.js.map": "/static/js/main.c2fc023d.js.map"
   },
   "entrypoints": [
-    "static/css/main.34d3a037.css",
-    "static/js/main.a868fcdb.js"
+    "static/css/main.7562766d.css",
+    "static/js/main.c2fc023d.js"
   ]
 }

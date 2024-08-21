@@ -1,0 +1,235 @@
+.cart-container {
+    display: flex;
+    flex-direction: column;
+}
+
+.cart-one, .cart-two {
+    display: flex;
+    flex-direction: row;
+}
+
+.cart-one .one-photo{
+    background-position: left; /* Centers the image */
+    margin-top: 70px;
+    margin-left: 50px;
+    width: 70vh;
+    height: 70vh; /* Adjust the height as needed */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-image: url(/src/components/images/introImg.jpg);
+}
+
+.cart-one .one-text {
+    width:100vh;
+    margin-top: 40px;
+    text-align: justify;
+}
+
+.one-text h4 {
+    font-weight: normal;
+    margin-left: 60px;
+    margin-top: 40px;
+    font-size: 40px;
+    color: black;
+}
+
+.one-text h6 {
+    margin-top: 16px;
+    font-size: 20px;
+    margin-left: 60px;
+    font-weight:bold;
+}
+
+.cart-two .two-photo{
+    background-position: left; /* Centers the image */
+    margin-top: 70px;
+    margin-left: 50px;
+    width: 70vh;
+    height: 70vh; /* Adjust the height as needed */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-image: url(/src/components/images/introImg.jpg);
+}
+
+.cart-photo {
+    width: 70px; /* Adjust width as needed */
+    height: 70px; /* Adjust height as needed */
+    background-size: cover;
+    background-position: center;
+    margin-right: 20px; /* Space between image and text */
+}
+
+.cart-two .two-text {
+    width:100vh;
+    margin-top: 40px;
+    text-align: justify;
+}
+
+.two-text h4 {
+    font-weight: normal;
+    margin-left: 60px;
+    margin-top: 40px;
+    font-size: 40px;
+    color: black;
+}
+
+.two-text h6 {
+    margin-top: 16px;
+    font-size: 20px;
+    margin-left: 60px;
+    font-weight:bold;
+}
+
+
+/* Styles for quantity control buttons */
+
+.quantity-control {
+    display: flex;
+    align-items: center; /* Vertically centers items in the container */
+    justify-content: left; /* Horizontally centers items in the container */
+    margin-top: 20px;
+    margin-left: 20px;
+}
+
+.quantity-control button {
+    width: 30px;
+    height: 30px;
+    font-size: 20px;
+    font-weight: bold;
+    color: white;
+    background-color: rgb(222, 57, 57);
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.quantity-control span { 
+    padding-top: 5px;
+    margin: 0 20px;
+    font-size: 20px;
+    font-size: 17px;
+    font-weight: normal;
+}
+
+.empty-cart-message h3 {
+    margin-top: 200px;
+    margin-bottom: 100px;
+    text-align: center;
+    font-weight: normal;
+}
+
+.cart-container {
+    display: flex;
+    flex-direction: column;
+    padding: 20px;
+}
+
+
+.cart-item {
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;
+}
+
+.cart-photo {
+    margin-right: 20px;
+}
+
+.cart-photo img {
+    width: 100px; /* Adjust size as needed */
+    height: auto;
+    border-radius: 10px;
+}
+
+.cart-text {
+    margin-top: 50px;
+    display: flex;
+    flex-direction: column;
+}
+
+.cart-text h4 {
+    color: black;
+    font-size: 40px;
+}
+
+.cart-text h6 {
+    margin-top: 20px;
+    font-size: 18px;
+}
+
+
+.flavor-peach {
+    background-position: left; /* Centers the image */
+    margin-top: 70px;
+    margin-left: 50px;
+    width: 70vh;
+    height: 70vh; /* Adjust the height as needed */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-image: url('/src/components/images/Artboard1.png');
+}
+
+.flavor-cherry {
+    background-position: left; /* Centers the image */
+    margin-top: 70px;
+    margin-left: 50px;
+    width: 70vh;
+    height: 70vh; /* Adjust the height as needed */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-image: url('/src/components/images/Artboard3.png');
+}
+
+.flavor-strawberry {
+    background-position: left; /* Centers the image */
+    margin-top: 70px;
+    margin-left: 50px;
+    width: 70vh;
+    height: 70vh; /* Adjust the height as needed */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-image: url('/src/components/images/Artboard2.png');
+}
+
+.total-price {
+    display: flex;
+    flex-direction: row;
+    margin-top: 0px;
+    padding: 10px;
+    text-align: right;
+    font-size: 1.2em;
+    font-weight: bold;
+}
+
+
+.total-price button {
+    color: white;
+    margin-left: 500%;
+    margin-top: 0px;
+    height: 6vh;
+    width: 19vh;
+    border: 0px;
+    border-radius: 20px;
+    background-color: rgb(222, 57, 57);
+}
+
+.total-price h3 {
+    margin-left: 190px;
+    text-align: left;
+    margin-top: 0px;
+    margin-bottom: 50px;
+}
+
+.total-price button:hover {
+    color: rgb(222, 57, 57);
+    background-color: white;
+}
+
+
+
+

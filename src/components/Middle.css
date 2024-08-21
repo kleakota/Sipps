@@ -1,0 +1,45 @@
+.middle-container {
+    margin-top: 30px;
+    height: 100vh;
+    display: flex;
+    flex-direction: row;
+    
+}
+
+.photo-container {
+    background-image: url('/src/components/images/middleImg.jpg');
+    background-size: cover; /* Ensures the image covers the entire area */
+    background-position: center; /* Centers the image */
+    margin-top: 70px;
+    margin-right: 50px;
+    width: 100vh;
+    height: 70vh; /* Adjust the height as needed */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.text-container {
+    width: 200vh;
+}
+
+.middle-container h1 {
+    font-size: 45px;
+}
+
+.middle-container h5{
+    font-size: 19px;
+}
+
+.middle-container h1, h5 {
+    margin-left: 20px;
+    margin-top: 50px;
+}
+
+.middle-container p {
+    margin-top: -20px;
+    font-size: 15px;
+    text-align: justify;
+    margin-right: 200px;
+    margin-left: 20px;
+}

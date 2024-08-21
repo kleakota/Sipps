@@ -1,0 +1,33 @@
+.footer-container {
+    display: flex;
+    flex-direction: column;
+}
+
+.footer-container .brand-container {
+    margin-top: 30px;
+    text-align: center;
+}
+
+.brand-container h3{
+    font-size: 60px;
+}
+
+.brand-container h5{
+    margin-right: 25px;
+    margin-top: -50px;
+    font-weight: normal;
+}
+
+.details-container {
+    margin-right: 60px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.details-container p {
+    font-size: 13px;
+    margin-top: 40px;
+    color: rgb(208, 206, 206);
+}
+

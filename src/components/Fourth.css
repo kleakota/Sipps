@@ -1,0 +1,51 @@
+.fourth-container {
+    margin-top: 80px;
+    height: 70vh;
+    display: flex;
+    background-color: rgb(244, 152, 95);
+    flex-direction: row;
+}
+
+.fourth-container .photo-container {
+    background-image: url(/src/components/images/fourthImg.jpg);
+    background-position: left; /* Centers the image */
+    margin-top: 0px;
+    margin-right: 50px;
+    width: 110vh;
+    height: 70vh; /* Adjust the height as needed */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.text-container h6{
+    margin-top: -20px;
+    font-weight: normal;
+    font-size: 15px;
+    text-align: justify;
+}
+
+.text-container h3 {
+    margin-top: -40px;
+    font-size: 35px;
+}
+
+
+.fourth-container .text-container {
+    padding-top: 50px;
+    width:100vh;
+    margin-top: 50px;
+}
+
+.fourth-container button {
+    margin-top: 0px;
+    height:6vh;
+    width: 19vh;
+    border: 0px;
+    border-radius: 20px;
+}
+
+.fourth-container button:hover {
+    background-color: rgb(222, 57, 57);
+    color: white;
+}

@@ -1,0 +1,157 @@
+.flavors-container {
+    display: flex;
+    flex-direction: column;
+}
+
+.flavor-one-container, .flavor-three-container {
+    display: flex;
+    flex-direction: row;
+}
+
+.flavor-two-container {
+    display: flex;
+    flex-direction: row-reverse;
+}
+
+.flavor-one-container .one-photo {
+    background-position: left; /* Centers the image */
+    margin-top: 100px;
+    margin-left: 50px;
+    width: 70vh;
+    height: 70vh; /* Adjust the height as needed */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-image: url(/src/components/images/sixImg.jpg);
+}
+
+.flavor-one-container .one-text {
+    width: 100vh;
+    margin-top: 90px;
+    text-align: justify;
+}
+
+.one-text h3 {
+    font-size: 40px;
+    margin-left: 60px;
+}
+
+.one-text h5, p {
+    margin-left: 65px;
+}
+
+.one-text p {
+    margin-top: -10px;
+}
+
+.one-text button {
+    color: white;
+    margin-left: 65px;
+    margin-top: 40px;
+    height: 6vh;
+    width: 19vh;
+    border: 0px;
+    border-radius: 20px;
+    background-color: rgb(222, 57, 57);
+}
+
+.flavor-two-container, .flavor-three-container {
+    margin-top: 50px;
+}
+
+.flavor-two-container .two-photo {
+    background-position: left; /* Centers the image */
+    margin-top: 70px;
+    margin-right: 100px;
+    margin-left: 150px;
+    width: 70vh;
+    height: 70vh; /* Adjust the height as needed */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-image: url(/src/components/images/sevImg.jpg);
+}
+
+.flavor-two-container .two-text {
+    width: 100vh;
+    margin-top: 60px;
+    margin-left: 60px;
+    text-align: justify;
+}
+
+.two-text h5 {
+    margin-left: 0px;
+}
+
+.two-text p {
+    margin-top: -10px;
+    margin-left: 0px;
+}
+
+.two-text h3 {
+    font-size: 40px;
+}
+
+.two-text button {
+    color: white;
+    margin-left: 0px;
+    margin-top: 40px;
+    height: 6vh;
+    width: 19vh;
+    border: 0px;
+    border-radius: 20px;
+    background-color: rgb(222, 57, 57);
+}
+
+.flavor-three-container .three-photo {
+    background-position: left; /* Centers the image */
+    margin-top: 70px;
+    margin-left: 50px;
+    width: 70vh;
+    height: 70vh; /* Adjust the height as needed */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-image: url(/src/components/images/eigImg.jpg);
+}
+
+.flavor-three-container .three-text {
+    width: 100vh;
+    margin-top: 30px;
+    text-align: justify;
+}
+
+.three-text h3 {
+    font-size: 40px;
+    margin-left: 60px;
+}
+
+.three-text h5, p {
+    margin-left: 65px;
+}
+
+.three-text p {
+    margin-top: -10px;
+}
+
+.three-text button {
+    color: white;
+    margin-left: 65px;
+    margin-top: 20px;
+    height: 6vh;
+    width: 19vh;
+    border: 0px;
+    border-radius: 20px;
+    background-color: rgb(222, 57, 57);
+}
+
+.one-text button:hover, .two-text button:hover, .three-text button:hover {
+    color: rgb(222, 57, 57);
+    background-color: white;
+}
+
+
+
+
+
+

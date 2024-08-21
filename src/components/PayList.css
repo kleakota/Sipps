@@ -1,0 +1,93 @@
+.pay-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.payment-form {
+    margin-left: 60px;
+}
+
+/* Order container box styling */
+.order-container {
+    margin-top: 10%;
+    margin-right: 20%;
+    padding: 20px;
+    height: 75vh;
+    width: 55vh;
+    background-color: #f9f9f9;
+    border: 1px solid #ccc;
+    border-radius: 2px;
+}
+
+
+.order-container p {
+    margin-left: 0px;
+}
+
+.total-price {
+    margin-top: 40px;
+}
+
+
+.order-container .total-price strong {
+    margin-left: -10px;
+}
+
+.order-container button {
+    color: white;
+    margin-left: -5px;
+    margin-top: 5px;
+    height: 6vh;
+    width: 25vh;
+    border: 0px;
+    border-radius: 2px;
+    background-color: rgb(222, 57, 57);
+}
+
+.order-container button:hover {
+    color: rgb(222, 57, 57);
+    background-color: white;
+}
+
+.payment-form h2 {
+    margin-top: 60px;
+    margin-bottom: 60px;
+    font-size: 40px;
+    color: rgb(222, 57, 57);
+}
+
+.form-group {
+    margin-top: 30px;
+    display: flex;
+    flex-direction: column;
+}
+
+.payment-form input[type="text"],
+.payment-form input[type="email"],
+.payment-form input[type="tel"] {
+    width: 100%;
+    padding: 10px;
+    font-size: 16px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    transition: border-color 0.3s ease;
+}
+
+.order-item span {
+    flex: 1;
+    text-align: left;
+}
+
+
+.order-item span:last-child {
+    color: rgb(222, 57, 57);
+    text-align: right;
+    margin-left: 10px;
+}
+
+.total-price span {
+    margin-left: 10px;
+}
+

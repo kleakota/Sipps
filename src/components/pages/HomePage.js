@@ -4,7 +4,7 @@ import Middle from '../Middle';
 import Third from '../Third';
 import Fourth from '../Fourth';
 import Footer from '../Footer';
-import homeBackground from '/Users/kleak/sippswebsite/src/components/images/introImg.jpg'; // Import your background image
+import homeBackground from '../images/introImg.jpg'; // Import your background image
 
 function HomePage() {
 

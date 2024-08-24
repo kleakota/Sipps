@@ -1,6 +1,6 @@
 import Navbar from "../Navbar";
 import React from "react";
-import payBackground from '/Users/kleak/sippswebsite/src/components/images/payImg.jpg'; // Import your background image from "react";
+import payBackground from '../images/payImg.jpg'; // Import your background image from "react";
 import Footer from "../Footer";
 import PayList from "../PayList";
 

@@ -1,7 +1,7 @@
 import Navbar from '../Navbar';
 import ShopFlavors from '../ShopFlavors';
 import Footer from '../Footer';
-import shopBackground from '/Users/kleak/sippswebsite/src/components/images/fifthImg.jpg'; 
+import shopBackground from '../images/fifthImg.jpg'; 
 
 function ShopPage() {
 

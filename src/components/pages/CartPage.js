@@ -1,6 +1,6 @@
 import Navbar from "../Navbar";
 import React from "react";
-import cartBackground from '/Users/kleak/sippswebsite/src/components/images/nineImg.jpg'; // Import your background image from "react";
+import cartBackground from '../images/nineImg.jpg'; // Import your background image from "react";
 import Footer from "../Footer";
 import CartList from "../CartList";
 

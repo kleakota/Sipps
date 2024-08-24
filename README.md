@@ -13,3 +13,4 @@ For each part of the project, I've included all the necessary elements that comp
 https://www.figma.com/design/fVjCOAZfAQnKGSPVlWY91o/SIPPS-UX%2FUI-Design?node-id=0-1&t=mUWsQTxrahOx3s04-1
 
 Lastly, for Web Development, we've included the project source code, as well as the link of the deployed website.
+https://kleakota.github.io/Sipps/

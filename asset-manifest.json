@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Sipps/static/css/main.1525fe6e.css",
+    "main.css": "/Sipps/static/css/main.547bf842.css",
     "main.js": "/Sipps/static/js/main.85c2f0ac.js",
     "static/media/Artboard3.png": "/Sipps/static/media/Artboard3.6d9977978381cf9ae341.png",
     "static/media/Artboard2.png": "/Sipps/static/media/Artboard2.49b2223160c59fea4a00.png",
@@ -15,11 +15,11 @@
     "static/media/introImg.jpg": "/Sipps/static/media/introImg.5ff0ccbeccdf313ab384.jpg",
     "static/media/sevImg.jpg": "/Sipps/static/media/sevImg.e4a5dc2c2595732d940a.jpg",
     "index.html": "/Sipps/index.html",
-    "main.1525fe6e.css.map": "/Sipps/static/css/main.1525fe6e.css.map",
+    "main.547bf842.css.map": "/Sipps/static/css/main.547bf842.css.map",
     "main.85c2f0ac.js.map": "/Sipps/static/js/main.85c2f0ac.js.map"
   },
   "entrypoints": [
-    "static/css/main.1525fe6e.css",
+    "static/css/main.547bf842.css",
     "static/js/main.85c2f0ac.js"
   ]
 }
